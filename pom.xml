@@ -15,7 +15,7 @@
 		<org.hibernate-version>3.6.6.Final</org.hibernate-version>
 		<javax.validation-version>1.0.0.GA</javax.validation-version>
 		<mysql-version>5.1.18</mysql-version>
-		<org.springframework.webflow-version>2.3.3.RELEASE</org.springframework.webflow-version>
+		<org.springframework.webflow-version>2.4.6.RELEASE</org.springframework.webflow-version>
 		<spring-framework.security.version>3.2.5.RELEASE</spring-framework.security.version>
 	</properties>
 	<dependencies>
